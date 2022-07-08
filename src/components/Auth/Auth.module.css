@@ -1,0 +1,40 @@
+.cont {
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+}
+
+.login-img {
+  width: 100%;
+  height: 100vh;
+}
+
+.logo {
+  width: 100px;
+  height: 34px;
+  background-color: #cfd4ed;
+  margin: 0;
+}
+
+.text {
+  font-family: Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+}
+
+.toggle {
+  margin-top: 1rem;
+  background-color: transparent;
+  color: #9f5ccc;
+  border: none;
+  padding: 0.15rem 1.5rem;
+}
+
+.alert-cont {
+  width: 100%;
+  position: absolute;
+  top: 10px;
+  display: flex;
+  justify-content: center;
+}

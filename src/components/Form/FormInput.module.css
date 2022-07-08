@@ -1,0 +1,54 @@
+.inputBox {
+  width: 1047px;
+  height: 106px;
+  border-radius: 8px;
+  position: absolute;
+  top: 458px;
+  left: 150px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+  padding: 24px;
+  align-items: center;
+  background-color: #fff;
+}
+
+.btn-green {
+  font-weight: bold;
+  line-height: 20px;
+  color: #ffffff;
+  background-color: #5cb85f;
+  border-color: #5cb85f;
+  padding: 8px 12px;
+  font-size: 14px;
+  border-radius: 2px;
+  width: 100px;
+  height: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+label,
+input {
+  font-family: Helvetica;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+label {
+  color: #3c3c3c;
+}
+
+input {
+  color: #8a8a8a;
+  padding: 0.375rem 2.25rem 0.375rem 0.75rem;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
+
+.form-select {
+  font-family: Helvetica;
+  font-size: 12px;
+  line-height: 18px;
+  color: #8a8a8a;
+  height: 36px;
+}

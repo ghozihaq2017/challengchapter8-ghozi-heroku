@@ -1,0 +1,26 @@
+.navbar {
+  z-index: 1000;
+}
+
+.logo {
+  width: 100px;
+  height: 34px;
+  background-color: #0d28a6;
+  margin: 0;
+}
+
+.btn-green {
+  font-weight: bold;
+  line-height: 20px;
+  color: #ffffff;
+  background-color: #5cb85f;
+  border-color: #5cb85f;
+  padding: 8px 12px;
+  font-size: 14px;
+  border-radius: 2px;
+  width: 100px;
+  height: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

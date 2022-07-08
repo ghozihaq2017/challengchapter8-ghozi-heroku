@@ -1,0 +1,45 @@
+footer {
+  height: 128px;
+  padding: 100px 136px;
+  margin-top: 108px;
+}
+ 
+.address {
+  max-width: 268px;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  padding-left: 86px;
+}
+
+.sosmed ul {
+  width: 224px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+}
+
+.sosmed ul li {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: #0d28a6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  width: 100px;
+  height: 34px;
+  background-color: #0d28a6;
+  margin: 0;
+}
+
+a {
+  line-height: 20px;
+  text-decoration: none;
+  color: #000;
+}

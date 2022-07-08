@@ -1,0 +1,41 @@
+.btn-green {
+  font-weight: bold;
+  line-height: 20px;
+  color: #ffffff;
+  background-color: #5cb85f;
+  border-color: #5cb85f;
+  padding: 8px 12px;
+  font-size: 14px;
+  border-radius: 2px;
+  width: 100px;
+  height: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  margin: 20px auto;
+}
+
+.detail {
+  display: grid;
+  grid-template-columns: 2.5fr 1fr;
+  grid-template-rows: 2fr;
+  gap: 0px 0px;
+  width: 100%;
+}
+
+.details {
+  grid-area: 1 / 1 / 2 / 3;
+}
+.card-detail {
+  grid-area: 1 / 2 / 2 / 3;
+}
+
+.icon-text {
+  font-size: 10px;
+  font-weight: 300;
+  color: #8a8a8a;
+  display: flex;
+}

@@ -1,0 +1,40 @@
+.hero {
+  height: 404px;
+  display: flex;
+  align-items: center;
+}
+
+.hero-content p {
+  width: 468px;
+  line-height: 20px;
+}
+
+.hero-content h1 {
+  width: 568px;
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 54px;
+}
+
+.hero img {
+  width: 704px;
+  position: absolute;
+  right: 0;
+  z-index: 10;
+  bottom: 182px;
+}
+
+.bg {
+  background-color: #0d28a6;
+  height: 243px;
+  width: 704px;
+  border-top-left-radius: 60px;
+  position: absolute;
+  right: 0;
+  bottom: 182px;
+}
+
+.inputbox {
+  top: 458px;
+  left: 150px;
+}
